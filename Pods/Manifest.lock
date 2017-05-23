@@ -1,0 +1,24 @@
+PODS:
+  - Bond (5.1.0):
+    - ReactiveKit (~> 3.1)
+  - BRYXBanner (0.7.1)
+  - CryptoSwift (0.6.6)
+  - DropDown (2)
+  - ReactiveKit (3.1.1)
+
+DEPENDENCIES:
+  - Bond
+  - BRYXBanner
+  - CryptoSwift
+  - DropDown
+
+SPEC CHECKSUMS:
+  Bond: 37b7251e8aa7ac660458494a3ccaa1a17833a217
+  BRYXBanner: 34eabf9c6c009f187948ca78a4f3bba3767d0f04
+  CryptoSwift: 88592381b73f36e192124539390a7c9bacda76af
+  DropDown: 744784d9c9aa505100e942c16acd05430cbb2f0a
+  ReactiveKit: e830df3deeb6cdf2acd18cee5cf07cb25488ae4e
+
+PODFILE CHECKSUM: 935ae8ae538f978889c5da37b2b265de3f7141f5
+
+COCOAPODS: 1.2.0
